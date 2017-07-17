@@ -1,0 +1,32 @@
+# 0
+print('No.0 choznerol')
+
+# 1
+print('No.1 ???')
+
+# 2
+print('No.2 ???')
+
+# 3
+print('No.3 ???')
+
+# 4
+print('No.4 ???')
+
+# 5
+print('No.5 ???')
+
+# 6
+print('No.6 ???')
+
+# 7
+print('No.7 ???')
+
+# 8
+print('No.8 ???')
+
+# 9
+print('No.9 ???')
+
+# 10
+print('No.10 ???')
