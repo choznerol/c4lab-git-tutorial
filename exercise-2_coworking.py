@@ -1,5 +1,5 @@
 # 0
-print('No.0 choznerol-1')
+print('No.0 choznerol-2')
 
 # 1
 print('No.1 ???')
